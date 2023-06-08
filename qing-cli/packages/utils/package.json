@@ -1,0 +1,19 @@
+{
+  "name": "@qing328-cli/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "qing <1126643825@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  }
+}
